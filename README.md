@@ -7,7 +7,7 @@ If you have any question, please, let me know.
 
 ## Features
 * One Game Mode - Player vs IA
-* One types of IA - Randon Or Game Tree
+* One types of IA - Game Tree
 
 ## Controls
 
